@@ -1,31 +1,31 @@
 # INTRODUCTION
-  The Medical store management system, also known as the pharmacy information system, is a system that stores data and enables functionality that organizes and maintains the medication use process within pharmacies.The project is designed for developing the medical store management system whose purpose is to reduce the complexities of record keeping and documentation in the inventory management.The other important thing is that it can identify the rack number of specified medicines.
-  
+      An electoral system or voting system is a set of rules that determine how elections and referendums are conducted and how their results are determined.The project is mainly aimed at providing a secured and user friendly Online Voting System. The problem of voting is still critical in terms of safety and security.
 # SWOT ANALYSIS:
     1)STRENGTH - * Easy Accessible and time saving
                  * Cost Efficiency
+                 * Can prevent election fraudulence and also violence 
                  
     2)Weakness - * High Maintenance
-                 * Needs high storage capacity
+                 * Needs skilled people
                  
-    3)Opportunities - * Risk can be avoided
+    3)Opportunities - * Risks and duplication of votes can be avoided
                       * Highly beneficial
                       
-    4)Threats - * Pricing issues may arrise
-                * Attacks may be created to the data
+    4)Threats - * The election committee may have less contol action 
+                * Sometimes the system may not function
                 
 # 4W's and 1'H
-     When - It can be used when there is a manual procedure done in pharmacies
-     where - It is implemented in pharmacy management system
-     who -  Pharmacies,Medicals
-     what - Used to store and record all the activities done in the pharmacy
-     How - It can perform add,update,delete and display the number of medicines in the record
+     When - It can be used when there is a manual procedure for voting like stamping on the paper to vote
+     where - It is implemented in election period of time
+     who -  voters,canditates
+     what - Used to store and record all the votings
+     How - It can perform the operations like displaying the number of canditates,number of votes,to find leading votes
      
 # High Level Requirements
-    User can be able to add and modify the data of the medicine
-    User shall be able to delete,search,manage and display the total number of medicine data.
+    It allow the voters to vote quickly.
+    Allows authorized voters for voting.
 # Low Level Requirements
-    User shall be able to get the output data
+    Count the number of votes.
 
   
     
