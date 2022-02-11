@@ -5,21 +5,22 @@
     1)STRENGTH - * Easy Accessible and time saving
                  * Cost Efficiency
                  
-    2)Weakness - * High Maintanance
+    2)Weakness - * High Maintenance
                  * Needs high storage capacity
                  
     3)Opportunities - * Risk can be avoided
                       * Highly beneficial
                       
     4)Threats - * Pricing issues may arrise
-                * Attaks may be created to the data
+                * Attacks may be created to the data
                 
 # 4W's and 1'H
      When - It can be used when there is a manual procedure done in pharmacies
      where - It is implemented in pharmacy management system
      who -  Pharmacies,Medicals
      what - Used to store and record all the activities done in the pharmacy
-
+     How - It can perform add,update,delete and display the number of medicines in the record
+     
 # High Level Requirements
     User can be able to add and modify the data of the medicine
     User shall be able to delete,search,manage and display the total number of medicine data.
