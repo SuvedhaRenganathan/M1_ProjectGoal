@@ -21,6 +21,10 @@
      what - Used to store and record all the activities done in the pharmacy
 
 # High Level Requirements
+    User can be able to add and modify the data of the medicine
+    User shall be able to delete,search,manage and display the total number of medicine data.
+# Low Level Requirements
+    User shall be able to get the output data
 
   
     
