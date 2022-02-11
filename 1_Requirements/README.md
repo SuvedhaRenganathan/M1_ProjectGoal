@@ -1,5 +1,5 @@
 # INTRODUCTION
-  The pharmacy management system, also known as the pharmacy information system, is a system that stores data and enables functionality that organizes and maintains the medication use process within pharmacies.The project is designed for developing the medical store management system whose purpose is to reduce the complexities of record keeping and documentation in the inventory management.The other important thing is that it can identify the rack number of specified medicines.
+  The Medical store management system, also known as the pharmacy information system, is a system that stores data and enables functionality that organizes and maintains the medication use process within pharmacies.The project is designed for developing the medical store management system whose purpose is to reduce the complexities of record keeping and documentation in the inventory management.The other important thing is that it can identify the rack number of specified medicines.
   
 # SWOT ANALYSIS:
     1)STRENGTH - * Easy Accessible and time saving
