@@ -11,7 +11,7 @@
     3)Opportunities - * Risks and duplication of votes can be avoided
                       * Highly beneficial
                       
-    4)Threats - * The election committee may have less contol action 
+    4)Threats - * The election committee may have less control action 
                 * Sometimes the system may not function
                 
 # 4W's and 1'H
