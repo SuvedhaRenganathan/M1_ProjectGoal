@@ -23,9 +23,11 @@
      
 # High Level Requirements
     It allow the voters to vote quickly.
-    Allows authorized voters for voting.
+    Allows authorized voters for voting by checking age,aadhar number.
+    Secured platform.
 # Low Level Requirements
     Count the number of votes.
+    Displaying the leading candidate.
 
   
     
