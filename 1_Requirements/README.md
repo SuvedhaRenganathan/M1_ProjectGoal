@@ -24,12 +24,12 @@
      How   - It can perform the operations like displaying the number of canditates,number of votes,to find leading votes,minimum votes
  
 # Reqirements
-# High Level Reqirements
+## High Level Reqirements
 * The system shall set a username,password,aadhar number for secure voting
 * It shall also find the person eligible to vote,candidates with maximum and minimum number of votes
 * The system shall also find the spoiled votes,number of votes
 
-# Low Level Reqirements
+## Low Level Reqirements
 * The user shall set the password
 * The user shall enter the date of birth to identify the age and aadhar number for verfication
 * The user shall also start to cast vote by choosing the candidate to vote
