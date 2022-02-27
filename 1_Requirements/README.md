@@ -30,7 +30,7 @@
 * The system shall also find the spoiled votes,number of votes
 
 ## Low Level Reqirements
-* The user shall set the password
+* The user shall set the username
 * The user shall enter the date of birth to identify the age and aadhar number for verfication
 * The user shall also start to cast vote by choosing the candidate to vote
 * They may also use other options to identify the count of vote,minimum & maximum votes
