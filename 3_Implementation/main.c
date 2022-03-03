@@ -8,11 +8,8 @@ char votepwd[6];
         {
         printf("Enter voting Password: ");
         int i=0;
-        for(i=0;i<8;i++)
-        {
-            votepwd[i]=getch();
-            printf("%c",'*');
-        }
+        scanf("%s",votepwd);
+        printf("%s","****");
     }
          char name[10];
      printf("\n Enter you name:");
@@ -99,5 +96,4 @@ return 0;
 
     } while (choice!=0);
 
-getchar();
 }
