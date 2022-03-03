@@ -17,8 +17,8 @@
                 * Sometimes the system may not function
                 
 # 4W's and 1'H
-     When  - It can be used when there is a manual procedure for voting like stamping on the paper to vote
-     where - It is implemented in election period of time
+    **When** - It can be used when there is a manual procedure for voting like stamping on the paper to vote
+     **where** - It is implemented in election period of time
      who   -  voters,canditates
      what  - Used to display the votings
      How   - It can perform the operations like displaying the number of canditates,number of votes,to find leading votes,minimum votes
