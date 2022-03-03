@@ -10,7 +10,6 @@
  */
 
 #include "stdio.h"
-#include "conio.h"
 #include "stdlib.h"
 #include "string.h"
 
@@ -152,11 +151,9 @@ char votepwd[6];
         {
         printf("Enter voting Password: ");
         int i=0;
-        for(i=0;i<8;i++)
-        {
-            votepwd[i]=getch();
-            printf("%c",'*');
-        }
+        scanf("%s",votepwd);
+        printf("%s","****");         // four digit Password
+        
     }
          char name[10];
      printf("\n Enter you name:");
@@ -202,7 +199,7 @@ char votepwd[6];
 
 char strg1[6];  
   char strg2[6]="AW1234"; 
-  printf("\n Enter ward number : ");  
+  printf("\n Enter ward number : ");  // four digit ward number with AW series
   scanf("%s",strg1);  
   int compare=stringcompare(strg1,strg2);  
   if(compare==0)  
@@ -243,5 +240,4 @@ return 0;
 
     } while (choice!=0);
 
-getchar();
 }
