@@ -24,14 +24,14 @@
      How   - It can perform the operations like displaying the number of canditates,number of votes,to find leading votes,minimum votes
 
 # Process of the Project
-> **STEP 1** The user shall create a username and password
-> **STEP 2** The user shall enter the DOB to identify the age of the voting person
-> **STEP 3** The user shall also the aadhar and ward number for further verification
-> **STEP 4** After the verification process,the user shall enter the choice to start to vote for the candidates
-> **STEP 5** Then the user shall able to find the number of vote,minimum votes and maximum votes of the candidates
-> **STEP 6** Then user shall exit 
+   > **STEP 1** The user shall create a username and password
+   > **STEP 2** The user shall enter the DOB to identify the age of the voting person
+   > **STEP 3** The user shall also the aadhar and ward number for further verification
+   > **STEP 4** After the verification process,the user shall enter the choice to start to vote for the candidates
+   > **STEP 5** Then the user shall able to find the number of vote,minimum votes and maximum votes of the candidates
+   > **STEP 6** Then user shall exit 
 
-Diagrams
+# Diagrams
 # Use case diagram
 ![image](https://user-images.githubusercontent.com/98879965/155890151-b1cb1941-bab5-4e41-a051-05891d1f13fe.png)
 
