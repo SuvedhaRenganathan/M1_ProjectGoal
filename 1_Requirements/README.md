@@ -25,15 +25,16 @@
  
 # Reqirements
 ## High Level Reqirements
-* The system shall set a username,password,aadhar number for secure voting
-* It shall also find the person eligible to vote,candidates with maximum and minimum number of votes
-* The system shall also find the spoiled votes,number of votes
+* The system shall help the user to cast the vote
+* After casting the vote find the minimum,maximum number of voted candidate
+* It shall also help the candiate to find the spoiled votes also
 
 ## Low Level Reqirements
-* The user shall set the username
-* The user shall enter the date of birth to identify the age and aadhar number for verfication
-* The user shall also start to cast vote by choosing the candidate to vote
-* They may also use other options to identify the count of vote,minimum & maximum votes
+* The user shall set the username and password
+* The user shall enter the date of birth to identify the age 
+* It shall also use aadhar number for verfication
+* The user shall also enter their ward number for verification
+
 
 # Benefits
 * Electronic voting technology intends to speed the counting of ballots
