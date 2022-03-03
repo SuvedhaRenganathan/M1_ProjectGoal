@@ -62,3 +62,13 @@ Diagrams
 | 03  | user DOB            |   1992       | Eligible to vote    | Eligible to vote  | Implemented |
 | 04  | user aadhar number  | 789078908900 | Valid aadhar number | Valid aadhar number | Implemented |
 | 05  | user ward number    | AW1234       | Correct ward number | Correct ward number | Implemented |
+
+
+# Uses and Benefits
+
+
+
+
+
+
+
