@@ -71,7 +71,11 @@
 
 
 # Uses and Benefits
-
+* Easier to vote
+* Saves time
+* Fast and secure
+* Publishes faster results
+* Save the cost 
 
 
 
