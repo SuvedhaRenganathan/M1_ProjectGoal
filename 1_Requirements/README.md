@@ -1,5 +1,5 @@
 # INTRODUCTION
-      An electoral system or voting system is a set of rules that determine how elections and referendums are conducted and how their results are determined.The project is mainly aimed at providing a secured and user friendly Online Voting System. The problem of voting is still critical in terms of safety and security.So this project also helps in finding various results and the person who is elgibile to vote. 
+An electoral system or voting system is a set of rules that determine how elections and referendums are conducted and how their results are determined.The project is mainly aimed at providing a secured and user friendly Online Voting System. The problem of voting is still critical in terms of safety and security.So this project also helps in finding various results and the person who is elgibile to vote. 
 # SWOT ANALYSIS:
    ![swot diagram](https://user-images.githubusercontent.com/98879965/161022739-9379ebc7-f921-4e21-895d-aadc84ca3d8f.png)
 
